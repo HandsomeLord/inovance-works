@@ -27,7 +27,8 @@ $$
 
 ![RUNOOB 图标](https://w.wallhaven.cc/full/we/wallhaven-werdv6.png)
 
-![RUNOOB 图标1](https://github.com/HandsomeLord/inovance-works/blob/main/pictuer/wallhaven-48rvrj_2560x1600.png)
+![RUNOOB 图标1](![Uploading image.png…]()
+)
 
 这个链接用 1 作为网址变量 [RUNOOB][1].
 然后在文档的结尾为变量赋值（网址）
